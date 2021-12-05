@@ -1,0 +1,17 @@
+/* for practising css in TOP foundation */
+
+.number1, 
+.number2 {
+    font-size: 3rem;
+    font-family: monospace, "Times New Roman", sans-serif;
+}
+
+.number1 {
+    background-color: black;
+    color: white;
+    
+}
+
+.number2 {
+    background-color: yellow;
+}
