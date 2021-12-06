@@ -1,0 +1,26 @@
+/* for practising css in TOP foundation */
+
+.p1, .p2, .p3 {
+    color: red;
+}
+
+.p1 {
+    font-size: 2rem;
+}
+
+.b1 {
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.b2 {
+    background-color: pink;
+    font-size: 2rem;
+}
+
+.div {
+    color: green;
+    font-size: 2rem;
+}
