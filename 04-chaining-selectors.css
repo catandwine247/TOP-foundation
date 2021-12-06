@@ -1,0 +1,12 @@
+/* for practising css in TOP foundation */
+/* Credits for the images in this exercise go to Katho Mutodo and Andrea Piacquadio. */
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+  }
+  
+  .avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
